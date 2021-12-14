@@ -1,0 +1,5 @@
+SUPER USUARIO ACCESO PANEL DE CONTROL:
+
+user: javier
+email: javilorca26@gmail.com
+Pass: 1988
